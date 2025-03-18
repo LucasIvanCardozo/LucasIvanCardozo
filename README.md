@@ -30,8 +30,8 @@
 </div>
 
 <p align="center">
-<a href="https://www.instagram.com/lucardozo27/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white" /></a>
-<a href="mailto:lucasivancardozo27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
-<a href="https://wa.me/5492235319564"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/lucasivancardozo/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=LinkedIn&logoColor=white" /></a>
+<a target="_blank" href="https://www.instagram.com/lucardozo27/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white" /></a>
+<a target="_blank" href="mailto:lucasivancardozo27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
+<a target="_blank" href="https://wa.me/5492235319564"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/lucasivancardozo/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=LinkedIn&logoColor=white" /></a>
 </p>
