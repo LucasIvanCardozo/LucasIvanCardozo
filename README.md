@@ -35,8 +35,4 @@
 <a target="_blank" href="https://wa.me/5492235319564"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/lucasivancardozo/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=LinkedIn&logoColor=white" /></a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,c,postgres,prisma,git,nodejs,tailwind&perline=6](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,prisma,postgres,c&perline=3)" />
-  </a>
-</p>
+
