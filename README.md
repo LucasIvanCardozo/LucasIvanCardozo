@@ -20,6 +20,11 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,c,postgres,prisma,git,nodejs,tailwind&perline=3" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,c,postgres,prisma,git,nodejs,tailwind&perline=3" />
+  </a>
+</p>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
