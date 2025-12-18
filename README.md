@@ -17,12 +17,12 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,prisma,postgres,c&perline=3" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,prisma,postgres,c&perline=4" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,prisma,postgres,c&perline=3" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,electron,ps,ai&perline=4" />
   </a>
 </p>
 <!-- Connect with me -->
